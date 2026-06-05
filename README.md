@@ -2,7 +2,7 @@
 
 [russian version](https://github.com/p0ls0l/p0ls0l_ru)
 
-[CV](https://drive.google.com/file/d/1v_zIVESOdnKZifi9UVMYj3-4lb61gKkp/view?usp=share_link)
+[CV]([https://drive.google.com/file/d/1v_zIVESOdnKZifi9UVMYj3-4lb61gKkp/view?usp=share_link](https://drive.google.com/file/d/1jfFOyqwzuPfP3_40jD9xz2PNbjf27rxF/view?usp=sharing))
 ---
 
 1st-year Student of HSE educational program "Texts, languages, and digital tools" 

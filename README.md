@@ -1,6 +1,6 @@
 ## Polina Solovyova ##
 
-[russian version]()
+[russian version](https://github.com/p0ls0l/p0ls0l_ru)
 
 [CV](https://drive.google.com/file/d/1v_zIVESOdnKZifi9UVMYj3-4lb61gKkp/view?usp=share_link)
 ---

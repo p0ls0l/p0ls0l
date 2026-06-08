@@ -1,53 +1,51 @@
-## Полина Соловьева ##
+## Polina Solovyova ##
 
-[english version](https://github.com/p0ls0l)
+[russian version](https://github.com/p0ls0l/p0ls0l_ru)
 
-[Резюме](https://drive.google.com/file/d/1v_zIVESOdnKZifi9UVMYj3-4lb61gKkp/view?usp=share_link)
+[CV](https://drive.google.com/file/d/1jfFOyqwzuPfP3_40jD9xz2PNbjf27rxF/view?usp=sharing)
 ---
 
-Студентка 1 курса образовательной программы НИУ ВШЭ "Тексты, языки и цифровые инструменты" 
+1st-year Student of HSE educational program "Texts, languages, and digital tools" 
 
-Контент-мейкер
+Content-Maker
 
-Языки: 
-- Русский – родной
-- Английский - B2+
+Languages: 
+- Russian – native
+- English - B2+
 ***
-## О себе
-Я практикующий контент-мейкер, деятельность которого сосредоточена на социальном, персональном и образовательном продвижении в социальных сетях. Работаю с различными типами контента: статьями, лонгридами, короткими информационными постами, форматом карточек, вертикальными и горизонтальными видеороликами, сторисами; в качестве площадки для работы предпочитаю Telegram. Будучи студенткой 1 курса образовательной программы "Тексты, языки и цифровые инструменты" НИУ ВШЭ, я интересуюсь цифровой лингвистикой,  локализацией и культурной адаптацией продукции к целевому рынку, изучением китайского языка, использованием инструментов искусственного интеллекта в академическом и профессиональном дискурсе, а также разработкой образовательных цифровых продуктов. Сейчас я активно работаю над продвижением Волонтерского центра НИУ ВШЭ и образовательной программы "Тексты, языки и цифровые инструменты" в социальных сетях, преимущественно в Telegram и ВКОНТАКТЕ.
+## About me
+A novice promising content-maker whose field of activity is focused on the personal, educational, and social promotion in social media. Work with different types of content: articles, short information posts, flashcards, vertical and horizontal videos, stories. As a 1st-year student of the HSE Texts, Languages, and Digital Tools educational program, I am interested in digital linguistics, Chinese language studies, the use of artificial intelligence tools in academic and professional discourse, localization and cultural adaptation of production to the target market, and development of educational digital products. Now I am actively working on promotion HSE's Volonteer Center and my educational program in social network, primarily in Telegram and VK.
 
-## Профессиональные интересы
-- продвижение в социальных сетях
-- организация мероприятий
-- локализация
-- межкультурная коммуникация
-- цифровая лингвистика
-- технологии в образовании
-- ИИ-грамотность
+## Professional interests
+- social-media promotion
+- event-management
+- localization
+- intercultural communication
+- digital linguistics
+- Ed-Tech
+- AI-literacy
 
-## Образование
-*НИУ ВШЭ, Санкт-Петербург, Россия*
+## Education
+*HSE Saint Petersburg, Russia*
 
-*Степень бакалавра "Тексты, языки и цифровые инструменты" - 2029*
+*Bachelor's degree "Texts, languages, and digital tools" - 2029*
 
-## Курсы 
-*Онлайн-курс медиаволонтерства НИУ ВШЭ: "Тексты*
-*и социальные сети"*
-*Октябрь — ноябрь 2025 г., 25 часов* 
+## Courses 
+*HSE Media Volunteering Course, online track: "Texts*
+*and Social Networks"*
+*October — November 2025, 25 hours* 
 
-## Проекты 
-- Разработка интерактивного квеста для маркетинговых целей
-ОП «Тексты, языки и цифровые инструменты» (февраль
-2026)– автор идеи, технический разработчик
+## Projects 
+- Developing an interactive quest for marketing purposes
+EP "Texts, languages and digital tools" (February 2026) – author of the idea, technical developer
 
-- Медийное сопровождение социальных проектов Центра
-лидерства и волонтёрства НИУ ВШЭ (февраль 2026 – н.в.) –
-райтер
+- Media support for social projects
+of the HSE Center for Leadership and Volunteerism (February 2026 – present) –
+Writer
 
-- Продвижение информационного, аналитического и
+- Promotion of information, analytical and
+entertainment content on social networks and offline
+space for the program "Texts, Languages and Digital
+Tools" (October 2025 – present) – author of materials
 
-развлекательного контента в социальных сетях и офлайн-
-пространстве для программы «Тексты, языки и цифровые
-
-инструменты» (октябрь 2025 – н.в.)– автор материалов
 
